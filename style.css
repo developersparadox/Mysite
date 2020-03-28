@@ -1,0 +1,114 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Comic Neue', cursive;
+    
+    
+}
+.heading-para{
+    ;
+}
+h1 {
+    margin-top: 0px;
+    font-family: 'Baloo Da 2', cursive;
+    color: lightseagreen;
+    font-size: 80px;
+    
+}
+h2{
+    font-family: 'Comic Neue', cursive;
+    color: lightseagreen;
+    font-weight: normal;
+    font-size: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+}
+h3{
+    font-family: 'Comic Neue', cursive;
+    color: lightseagreen;
+}
+ 
+.top-container{
+    background-color: wheat;
+    position: relative;
+
+    
+}
+.top-cloud{
+    position: relative;
+    margin-top: 40px;
+    margin-left: 600px;
+}
+.bottom-cloud{
+    position: absolute;
+    
+}
+.me-image{
+    height: 150px;
+    width: 150px;
+}
+.skill-image{
+
+    width: 25%;
+    float: left;
+    margin-top: 20px;
+    margin-right: 30px;
+}
+.photography-image{
+    height: 150px;
+    width: 120px;
+    float: right;
+}
+.bottom-container{
+    background-color: gainsboro;
+    padding: 50px;
+
+}
+.footer-link{
+    margin: 10px 20px;
+}
+a{
+    color: rgb(8, 102, 102);
+    font-family: 'Comic Neue', cursive; 
+    text-decoration: none;
+}
+a:hover {
+    color: burlywood;
+}
+hr  {   background-color: white;
+    border-style: none ;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+    
+} 
+.skill-row{
+    text-align: left;
+    width: 50%;
+    margin: 50px auto 100px auto;
+    line-height: 2;
+
+}
+.middle-container{
+    padding: 100px 0;
+}
+.profile{
+    margin-bottom: 100px;
+}
+.skils-heading{
+    margin-top: 100px;
+}
+.contact-me{
+    padding: 50px;
+}
+.btn{
+    padding: 50px;
+}
+.copyright{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 10px 0px;
+
+}
